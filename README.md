@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @the-playz
+- 👋 Hi, I’m @playz07
 - 👀 I’m interested in making minecraft mods
 - 🌱 I’m currently learning python, and soon HTML
 - 💞️ I’m looking to collaborate on anyone who actually knows what their doing XD
